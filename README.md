@@ -1,6 +1,7 @@
 # CausalMissingValues
 
 This repository provides the code and data used in three papers:
+[Causal Discovery from Mixed Data using Gaussian Copula Models](https://www.semanticscholar.org/paper/Causal-Discovery-from-Mixed-Data-using-Gaussian-Cui/7c08e115304dcecb3da6d17e19944d3c83783307)
 
 1. Cui, Ruifei, Perry Groot, and Tom Heskes. "Copula PC Algorithm for Causal Discovery from Mixed Data." In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), pp. 377-392. Springer, Cham, 2016.
 
